@@ -1,12 +1,12 @@
 body {
     background-image: url("https://media.istockphoto.com/photos/abstract-bokeh-background-picture-id457923471?b=1&k=6&m=457923471&s=170667a&w=0&h=CQRjpq1dbgnOaEtsMZDGrvKIBIMZLyaR1QJ2FJYgnLA=");
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: top center;
+    /* background-repeat: no-repeat;
+    background-position: center; */
     
     
 }
-
+/* index Section */
 .navbar {
     padding: 20px;
     
@@ -31,35 +31,38 @@ h1 {
 }
 
 
-.inner-container{
-    border: solid 2px #545454;
-    width: 55%;
-    float: right;
-    background: white;
-    padding: 150px;
+
+
+.inner-container {
+    margin: 40px;
+    /* margin-right: 350px; */
+    border: solid 3px gray;
+    max-width:1200px
+    /* width: 55%; */
+    float: left;
+    background-color: #fdfdfd;
+    padding: 80px;
 }
 
 .inner-container h1{
+    font-family: 'Rajdhani', sans-serif;
+    color: Black;
     margin-bottom: 30px;
     font-size: 30px;
     font-weight: 900;
 }
 
-.img-fluid {
-    width: 300px;
-    height: 200px;
-
-
-}
-
-.text {
+ .text  {
     font-size: 13px;
-    color: #979797;
+    color: #545454;
     line-height: 30px;
     text-align: justify;
     margin-bottom: 40px;
+}  
 
-}
+
+
+/********************** Portfolio Section **********************/
 .container{
     float: right;
     padding: 20px;
@@ -71,7 +74,7 @@ h1 {
 .carousel-inner {
      border: solid 2px;
     color: white;
-    margin-bottom: 200px;
+    margin: 50px;
    
    }
    
@@ -93,7 +96,8 @@ h1 {
     
    }
    
-   .container {
+   /************** Contact Section *****************/
+   .form-container {
        max-width:400px;
        width:100%;
        margin:0 auto;
@@ -176,4 +180,40 @@ h1 {
        outline:0;
        border:1px solid #999;
    }
+
+   /* @media screen and (max-width:1200px){
+    .inner-container{
+        padding: 80px;
+    }
+}
+
+@media screen and (max-width:1000px){
+    .about-section{
+        background-size: 100%;
+        padding: 100px 40px;
+    }
+    .inner-container{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:600px){
+    .about-section{
+        padding: 0;
+    }
+    .inner-container{
+        padding: 60px;
+    } */
+
+
+   /* Footer Section */
+   .text-center {
+       border: solid gray 2px;
+       color: white;
+         
       
+    
+    
+
+   }
+    
