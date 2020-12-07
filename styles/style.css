@@ -1,0 +1,154 @@
+body {
+    background-image: url("https://media.istockphoto.com/photos/abstract-bokeh-background-picture-id457923471?b=1&k=6&m=457923471&s=170667a&w=0&h=CQRjpq1dbgnOaEtsMZDGrvKIBIMZLyaR1QJ2FJYgnLA=");
+    background-size: cover;
+}
+/*    Home Page 
+Naviation Bar & About Me Section */
+.navbar {
+    padding: 20px;
+    
+    
+}
+.navbar-brand {
+    font-family: 'Major Mono Display',cursive;
+    font-size: 40px;
+}
+
+.nav-item {
+    font-size: 25px;
+
+}
+
+
+h1 {
+    font-family: 'Rajdhani', sans-serif;
+    color: Black;
+
+
+}
+
+.inner-container {
+    margin: 40px;
+    /* margin-right: 350px; */
+    border: solid 3px gray;
+    max-width:1200px;
+    /* width: 55%; */
+    float: left;
+    background-color: #fdfdfd;
+    padding: 80px;
+}
+
+.inner-container h1{
+    font-family: 'Rajdhani', sans-serif;
+    color: Black;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+ p  {
+    font-size: 20px;
+    color: #545454;
+    line-height: 50px;
+}  
+
+
+
+/********************** Portfolio Section **********************/
+.container{
+    padding: 5%;
+    margin: 30px;
+    max-width: 60%;
+    width: 1000px; 
+}
+
+#aboutmepic {
+    max-width: 45%;
+}
+
+.card {
+     margin: 20px;
+    background: white;
+    color: black;
+    font-family: cursive;
+}
+
+   
+   
+   /************** Contact Section *****************/
+    .form-container {
+        max-width:400px;  
+        width:100%;  
+        margin:0 auto; 
+       position:relative;
+   } 
+      
+   #contact {
+       background:#F9F9F9;
+       padding:25px;
+       margin: 50px 0;
+ /*      margin-right: 100px;
+       margin-left: 100px; */
+       
+   }
+   
+   #contact h3 {
+       
+       font-family: 'Amiro';
+       font-size: 30px;
+       font-weight: 400;
+   }
+   
+   #contact h4 {
+       margin:5px 0 15px;
+       display:block;
+       font-size:13px;
+   }
+   
+   fieldset {
+       margin: 0 0 10px;
+       min-width: 100%;
+       padding: 0;
+   }
+   
+   #contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea {
+     width:100%; 
+       width:100%;
+     width:100%; 
+       border:1px solid #CCC;
+       background:#FFF;
+       margin:0 0 5px;
+       padding:10px;
+   }
+   
+      #contact input[type="text"]:hover, #contact input[type="email"]:hover, #contact input[type="tel"]:hover, #contact input[type="url"]:hover, #contact textarea:hover {
+
+       border:3px solid #AAA; 
+   } 
+   
+   #contact textarea {
+       height:100px;
+       max-width:100%;
+   }
+   
+   #contact button[type="submit"] {
+       width:100%;
+       background: black;
+       color:#FFF;
+       margin:0 0 5px;
+       padding:10px;
+       font-size:15px;
+   }
+   
+   #contact button
+   [type="submit"]:hover {
+       background:black;
+       
+   }
+
+   /* Footer Section */
+   .text-center {
+       border: solid gray 2px;
+       color: white;
+   }
+    
