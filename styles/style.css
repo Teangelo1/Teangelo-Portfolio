@@ -29,27 +29,32 @@ h1 {
 
 .inner-container {
     margin: 40px;
-    /* margin-right: 350px; */
-    border: solid 3px gray;
+    border: solid 5px gray;
     max-width:1200px;
-    /* width: 55%; */
-    float: left;
+    width: 55%; 
     background-color: #fdfdfd;
-    padding: 80px;
+    padding: 20px;
 }
 
 .inner-container h1{
     font-family: 'Rajdhani', sans-serif;
     color: Black;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     font-size: 30px;
     font-weight: 900;
+}
+
+#aboutmepic {
+    max-width: 45%;
+    min-height: 50%;
+    border: double 4px black;
 }
 
  p  {
     font-size: 20px;
     color: #545454;
-    line-height: 50px;
+    line-height: 30px;
+    text-align: justify;
 }  
 
 
@@ -58,19 +63,18 @@ h1 {
 .container{
     padding: 5%;
     margin: 30px;
-    max-width: 60%;
-    width: 1000px; 
-}
-
-#aboutmepic {
-    max-width: 45%;
+    max-width: 65%;
+    /* width: 1000px;  */
 }
 
 .card {
-     margin: 20px;
+   margin: 20px; 
+    max-width: 90%;
     background: white;
     color: black;
     font-family: cursive;
+    position: relative;
+    display: block;
 }
 
    
@@ -152,3 +156,10 @@ h1 {
        color: white;
    }
     
+   .fa-github {
+       color: gray;
+ }
+
+ .fa-twitter {
+     color: gray;
+ }
