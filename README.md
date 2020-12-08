@@ -20,7 +20,7 @@ The goal here was to create a responsive portfolio.
 [W3 Schools Boostrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
 &nbsp;
 
-###HTML & CSS Validator
+### HTML & CSS Validator
 Using a Validator system helps check your code for errors such as unclosed elements, missing qoutes, syntax errors, and more. 
 
 **Here's the Validator's used for my code:**
