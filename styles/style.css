@@ -46,8 +46,8 @@ h1 {
 
 #aboutmepic {
     max-width: 45%;
-    min-height: 50%;
     border: double 4px black;
+    margin-right: 3%;
 }
 
  p  {
