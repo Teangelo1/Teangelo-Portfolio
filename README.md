@@ -30,10 +30,12 @@ Using a Validator system helps check your code for errors such as unclosed eleme
  * [Validator W3](https://validator.w3.org)
 
  **Main Home Page**
-![Home Page](images/Aboutme.png)
+
+ * **Links to Github, Linkedin, and Resume in the footer section**
+![Home Page](images/updatedhome.png)
 
 **Contact Page.**
-![Contact Page](images/Contact.png)
+![Contact Page](images/updatedcontact.png)
 
 
 
@@ -42,8 +44,9 @@ Using a Validator system helps check your code for errors such as unclosed eleme
  * HTML
  * CSS
  * Bootstrap
+ * Font Awesome
 
 **Here is the deployed URL:**
 https://teangelo1.github.io/Teangelo-Portfolio/
 
->Responsive is Key Guys!
+>Stay Connected Guys
