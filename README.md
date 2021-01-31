@@ -1,6 +1,6 @@
-# Portfolio becomes Responsive!
+#Portfolio becomes Responsive!
 
-The goal here was to create a responsive portfolio. 
+Goal: Update Portfolio Page
 
 ## Developer: Teangelo Burks
 
@@ -20,12 +20,28 @@ The goal here was to create a responsive portfolio.
 [W3 Schools Boostrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
 &nbsp;
 
+
+
 ### HTML & CSS Validator
 Using a Validator system helps check your code for errors such as unclosed elements, missing qoutes, syntax errors, and more. 
 
 **Here's the Validator's used for my code:**
 * [freeformatter](https://www.freeformatter.com/html-validator.html)
  * [Validator W3](https://validator.w3.org)
+
+ **Main Home Page**
+![Home Page](images/Aboutme.png)
+
+**Contact Page.**
+![Contact Page](images/Contact.png)
+
+
+
+ **Technologies Used:**
+
+ * HTML
+ * CSS
+ * Bootstrap
 
 **Here is the deployed URL:**
 https://teangelo1.github.io/Teangelo-Portfolio/

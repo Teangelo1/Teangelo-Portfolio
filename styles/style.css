@@ -30,8 +30,8 @@ h1 {
 .inner-container {
     margin: 40px;
     border: solid 5px gray;
-    max-width:1200px;
-    width: 55%; 
+    /* max-width:1200px; */
+    /* width: 55%;  */
     background-color: #fdfdfd;
     padding: 20px;
 }
@@ -53,8 +53,8 @@ h1 {
  p  {
     font-size: 20px;
     color: #545454;
-    line-height: 30px;
-    text-align: justify;
+    /* line-height: 30px;
+    text-align: justify; */
 }  
 
 
@@ -158,8 +158,14 @@ h1 {
     
    .fa-github {
        color: gray;
+       font-size: larger;
  }
 
- .fa-twitter {
+ .fa-linkedin {
      color: gray;
+     font-size: larger;
+ }
+
+ .fa-file-pdf {
+     font-size: larger;
  }
