@@ -1,4 +1,4 @@
-#Portfolio becomes Responsive!
+# Portfolio becomes Responsive!
 
 Goal: Update Portfolio Page
 
@@ -48,5 +48,16 @@ Using a Validator system helps check your code for errors such as unclosed eleme
 
 **Here is the deployed URL:**
 https://teangelo1.github.io/Teangelo-Portfolio/
+
+**Links to: Github, and Linkedin account.**
+&nbsp;
+
+Github: https://github.com/Teangelo1
+&nbsp;
+
+LinkedIn: https://www.linkedin.com/in/teangelo-burks-9516a2164/
+&nbsp;
+
+
 
 >Stay Connected Guys
